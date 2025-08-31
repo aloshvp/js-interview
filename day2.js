@@ -12,9 +12,7 @@
 // Expression: not hoisted → can only call after assignment.
 // Function expressions can be anonymous or named.
 
-
 // ---------------------------------------------------------------------------------
-
 
 // Arrow functions vs normal functions
 
@@ -27,13 +25,11 @@
 
 // ---------------------------------------------------------------------------------
 
-
 // What are higher - order functions ?
 
 // A higher - order function is one that either:
 // Takes another function as an argument, OR
 // Returns a function.
-
 
 // function multiplyBy(factor) {
 //     return function (num) {
@@ -47,9 +43,7 @@
 // Interviewer Note:
 // Connect this to real - world methods like map, filter, reduce.
 
-
 // ---------------------------------------------------------------------------------
-
 
 // What are callbacks and why are they important ?
 
@@ -66,17 +60,10 @@
 
 // Problem with callbacks: Callback Hell(nested functions, hard to maintain). → Solution: Promises.
 
+// ---------------------------------------------------------------------------------
 
 // ---------------------------------------------------------------------------------
 
-
-
-
 // ---------------------------------------------------------------------------------
-
-
-// ---------------------------------------------------------------------------------
-
-
 
 // ---------------------------------------------------------------------------------
