@@ -144,4 +144,11 @@
 //     }, 1000 + i);
 // }
 
+// let output = (function (x) {
+//     delete x;
+//     return x;
+// })(3);
+// console.log(output);//3
+
+
 
