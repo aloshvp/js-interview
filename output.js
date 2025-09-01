@@ -150,5 +150,37 @@
 // })(3);
 // console.log(output);//3
 
+// let c = 0;
+// let id = setInterval(() => {
+//     console.log(c++)
+// }, 10)
+// setTimeout(() => {
+//     clearInterval(id)
+// }, 2000)
+
+
+// function getName1() {
+//     console.log(this.name);
+// }
+// Object.prototype.getName2 = () => {
+//     console.log(this.name)
+// }
+// let personObj = {
+//     name: "Tony",
+//     print: getName1
+// }
+// personObj.print();
+// personObj.getName2();
+
+
+// function test() {
+//     console.log(a);
+//     console.log(foo());
+//     var a = 1;
+//     function foo() {
+//         return 2;
+//     }
+// }
+// test();//undeined,2
 
 
